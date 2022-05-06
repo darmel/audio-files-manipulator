@@ -3,7 +3,7 @@
 #autor original Dario Ochoa
 if [ $# -eq 0 ]
     then
-	echo "este scripts crea N archivos de musica, todos con valor diferente de  ALBUN en metadata"
+	echo "este scripts crea N archivos de musica, todos con valor diferente de  ALBUN en metadata en una carpeta llamada Nalbuns"
         echo "ingresar parametros"
 	echo "primer parametro: un numero (cantidad de archivos con DIFERENTE valor de  ALBUN)"
 	echo "segundo parametro: nombre de archivo a copiar dentro de la carpeta Nalbuns (cualquier .mp3 para usar de base)"
