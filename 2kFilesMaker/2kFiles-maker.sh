@@ -1,4 +1,6 @@
 #!/bin/bash
+#script realizado para pruebas, usar archiovos mp3 sin licencia
+#autor original Dario Ochoa - febrero 2022
 if [ $# -eq 0 ]
     then
     echo "este script crea n canciones agrupadas en carpetas con 20 canciones cada una"
