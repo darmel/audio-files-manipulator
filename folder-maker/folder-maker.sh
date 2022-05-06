@@ -1,6 +1,6 @@
 #!/bin/bash
 #script realizado para pruebas, usar archiovos mp3 sin licencia
-#autor original Dario Ochoa
+#autor original Dario Ochoa | febrero 2022
 if [ $# -eq 0 ]
     then
         echo "ingresar parametros"
